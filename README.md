@@ -14,6 +14,7 @@
   "browserExtensions": ["uBlock Origin", "Violentmonkey", "NoScript"],
   "programmingLanguages": ["Javascript", "HTML", "CSS", "Markdown", "JQuery"],
   "editor": "VSCode",
+  "IGN Names":["SS105", "Sebastian 🦝","Sebastian105","Sebastian-105","Sebastian_105","Mastergamer105"],
   "socials": {
     
     "emails": ["28schapfel1@gmail.com", "sebastian105schapfel@gmail.com", "28stu216@lexingtonma.org"],
