@@ -56,10 +56,14 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sebastian-105&theme=dark"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebastian-105&" alt="Sebastian-105" /></p>
 
 ## Links/Contacting Me:
-[![Join us on Discord](https://invidget.switchblade.xyz/hGzm2drjan?theme=dark)](https://discord.gg/hGzm2drjan)<br>
+[![Join us on Discord](https://invidget.switchblade.xyz/hGzm2drjan?theme=dark)](https://discord.gg/hGzm2drjan)
+
 [![Stargazers repo roster for @3kh0/website-v4](https://reporoster.com/stars/dark/Sebastian-105/Sebastian-105)](https://github.com/Sebastian-105/Sebastian-105/stargazers)
+
 [![Forkers repo roster for @3kh0/website-v4](https://reporoster.com/forks/dark/Sebastian-105/Sebastian-105)](https://github.com/Sebastian-105/Sebastian-105/network/members)
+
 [![Website](./Sebastian-105.github.io.gif)](https://sebastian-105.github.io)<br>
+
 <img src="https://komarev.com/ghpvc/?username=Sebastian-105&label=Amount of people who saw this &color=001eff&style=flat" alt="Sebastian-105" />
 
 ---
