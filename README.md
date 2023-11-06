@@ -59,9 +59,5 @@
 [![Forkers repo roster for @3kh0/website-v4](https://reporoster.com/forks/dark/Sebastian-105/Sebastian-105)](https://github.com/Sebastian-105/Sebastian-105/network/members)
 [![Website](./Sebastian-105.github.io.gif)](https://sebastian-105.github.io)<br>
 <img src="https://komarev.com/ghpvc/?username=Sebastian-105&label=Amount of people who saw this &color=001eff&style=flat" alt="Sebastian-105" />
-<iframe src="https://discord.com/widget?id=1122976121630240878&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ---
-## ***Have a good day***,
-# ***-Sebastian-105***
-
