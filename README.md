@@ -51,7 +51,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastian-105&hide=issues,stars&show_icons=true&locale=en" alt="Sebastian-105" />
  </picture>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sebastian-105&theme=dark"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebastian-105&" alt="Sebastian-105" /></p>
+<p>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sebastian-105&theme=dark"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebastian-105&" alt="Sebastian-105" /></p>
 
 ## Links/Contacting Me:
 [![Join us on Discord](https://invidget.switchblade.xyz/hGzm2drjan?theme=dark)](https://discord.gg/hGzm2drjan)<br>
