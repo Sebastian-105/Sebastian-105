@@ -1,13 +1,12 @@
 # 👋 Welcome, Bienvenue, ようこそ, 환영합니다, Bienvenido, Bem-vindos, Добро пожаловать, 欢迎, 歡迎 
 ---
-# I'm Sebastian 
----
 ![Website](./gif.gif)<br>
 ---
+## Hi My name is Sebastian, I like to play videogames, play saxophone, chess, and I'm currently avid in JavaScript HTML and CSS. I'm trying to learn python and java
 ```
 {
   "name": "Sebastian",
-  "Online Names":["Sebastian 🦝","Sebastian105","Sebastian-105","Sebastian_105","Mastergamer105", "Seb_105"],
+  "Online Names":["Sebastian","Sebastian105","Sebastian-105","Sebastian_105","Mastergamer105", "Seb_105"],
   "Gaming Names":["MasterGamer105", "Seb-105"]
   "Age": 13,
   "Pronouns":"he/him",
