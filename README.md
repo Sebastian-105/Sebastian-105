@@ -2,35 +2,6 @@
 ---
 ![Website](./gif.gif)<br>
 ---
-```
-{
-  "name": "Sebastian",
-  "Online Names":["Sebastian","Sebastian105","Sebastian-105","Sebastian_105","Mastergamer105", "Seb_105"],
-  "Gaming Names":["MasterGamer105", "Seb-105"]
-  "Age": 13,
-  "Pronouns":"he/him",
-  "Location":"Somewhere",
-  "Time Zone":"UTC -4  Eastern Time (ET)",
-  "interests": ["programming", "gaming", "music", "Chess", Saxophone],
-  "operatingSystem": "Chrome OS",
-  "browser": "Google Chrome",
-  "browser extensions": ["uBlock Origin", "Violentmonkey", "NoScript"],
-  "programmingLanguages": ["Javascript", "HTML", "CSS", "Markdown", "JQuery"],
-  "Editor": ["VSCode", "Github.dev", "Replit.com"]
-  "socials": {
-    "emails": ["28schapfel1@gmail.com", "sebastian105schapfel@gmail.com", "28stu216@lexingtonma.org"],
-    "discord": {
-      "server": "https://discord.gg/hGzm2drjan",
-      "username": "Sebastian_105"
-    },
-    "Spotify": "https://open.spotify.com/user/xgejalgtp9rurdpiic5ysyrju",
-    "Github": "https://github.com/Sebastian-105",
-    "Website": "https://Sebastian-105.github.io",
-    "Chess.com": "https://www.chess.com/member/sebastian-105",
-   
-  },
-}
-```
 ## Hi My name is Sebastian, I like to play videogames, play saxophone, chess, and I'm currently avid in JavaScript HTML and CSS. I'm trying to learn python and java
 ### Info/Stats
 <br>
